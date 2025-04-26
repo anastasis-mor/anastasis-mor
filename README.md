@@ -31,7 +31,6 @@ Currently working on [Anomaly-Detector](https://github.com/anastasis-mor/Anomaly
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasis-moraitis-b60216327/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anastasismora@gmail.com)
 
 ## 💼 Portfolio Highlights
 - **Anomaly Detector** - A security application to detect unusual patterns in data
