@@ -4,7 +4,21 @@
 Full-stack web developer with a passion for building secure, innovative applications. My focus areas include web security, artificial intelligence integration, and creating responsive, user-friendly interfaces. I enjoy tackling complex problems and constantly expanding my technical toolkit.
 
 ## 🔭 Current Project
-Currently working on [Anomaly-Detector](https://github.com/anastasis-mor/Anomaly-Detector) - An application designed to identify unusual patterns and potential security threats in data streams.
+Currently working on [Anomaly-Detector](https://github.com/anastasis-mor/Anomaly-Detector-Display) - An application designed to identify unusual patterns and potential security threats in data streams.
+This project integrates with existing web applications to provide real-time security monitoring and threat detection.
+
+🔒 Project Overview
+The Anomaly-Detector works as a security layer that:
+
+Monitors user behavior patterns across web applications
+Identifies suspicious activities and potential security breaches
+Provides real-time alerts and detailed threat analytics
+Integrates seamlessly with existing authentication systems
+
+
+🚧 Under Construction: This project is actively being developed with new features and improvements added regularly. While the core functionality is operational, I'm currently expanding the integration capabilities.
+
+Note: This project is maintained as a private repository for security purposes. The images show a demonstration version with non-sensitive data.
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
